@@ -51,7 +51,7 @@ The repository is organized into directories corresponding to different phases o
 
 2. **Navigate to a specific phase**:
    ```bash
-   cd mern-stack-exercises/phase-1
+   cd mern-stack-exercises/phase-1-html-css-bootstrap
    ```
 3. **Explore the code and projects**.
 
