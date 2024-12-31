@@ -1,4 +1,4 @@
-```markdown
+```
 # MERN Stack Exercises
 
 This repository contains the exercise codes I've developed while learning Full Stack Web Development (MERN Stack) at [Evangadi Tech](https://evangadi.com).
@@ -48,6 +48,7 @@ The repository is organized into directories corresponding to different phases o
    ```bash
    git clone https://github.com/your-username/mern-stack-exercises.git
    ```
+
 2. **Navigate to a specific phase**:
    ```bash
    cd mern-stack-exercises/phase-1
@@ -65,3 +66,4 @@ For any questions or feedback, feel free to reach out:
 - **Email**: [ahmmedahmd02@gmail.com](mailto:ahmmedahmd02@gmail.com)
 - **LinkedIn**: [Ahmmad Taju](https://www.linkedin.com/in/ahmmad-taju-4781482a6)
 - **GitHub**: [Ahmmad Taju](https://github.com/ahmedtaju)
+```
