@@ -32,12 +32,13 @@ The repository is organized into directories corresponding to different phases o
    - [Course Details](https://evangadi.com)
 
 3. **Phase 3: React.js, Node.js, MySQL & Express.js**
+   
    - Developing dynamic applications with React and Node.js.
    - Managing databases with MySQL.
    - Building server-side logic with Express.js.
    - [Course Details](https://evangadi.com)
 
-4. **Phase 4: The Project Phase - Building Fullstack Applications**
+5. **Phase 4: The Project Phase - Building Fullstack Applications**
    - Gaining hands-on experience in fullstack application development.
    - [Course Details](https://evangadi.com)
 
