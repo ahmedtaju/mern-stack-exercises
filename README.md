@@ -1,4 +1,3 @@
-
 # MERN Stack Exercises
 
 This repository contains the exercise codes I've developed while learning Full Stack Web Development (MERN Stack) at [Evangadi Tech](https://evangadi.com).
@@ -17,7 +16,7 @@ The MERN stack is a comprehensive suite of technologies for building dynamic web
 The repository is organized into directories corresponding to different phases of the course:
 
 - `/phase-1-html-css-bootstrap`: Static website development using HTML, CSS, and Bootstrap.
-- `/phase-2-javascript`: Programming fundamentals with JavaScript.
+- `/phase-2-javascript-jquery`: Programming fundamentals with JavaScript.
 - `/phase-3-react-node-mysql-express`: Backend and frontend integration with React, Node.js, MySQL, and Express.js.
 - `/phase-4-fullstack-projects`: Comprehensive projects combining all technologies.
 
